@@ -1,3 +1,3 @@
 # testkotlin
 
-Scratch project for me to practive building kotlin apps with gradle. 
+Scratch project for me to practice building kotlin apps with gradle. 
